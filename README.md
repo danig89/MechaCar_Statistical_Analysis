@@ -10,9 +10,12 @@ The purpose of this project was to analyze data for AutosRUs’ newest prototype
 
 ## Linear Regression to Predict MPG
 ![Linear Regression](Resources/linear_regression.png)
-<br>
 
+#### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
+#### Is the slope of the linear model considered to be zero? Why or why not?
+
+#### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 ## Summary Statistics on Suspension Coils
 ### Total Summary
@@ -22,6 +25,8 @@ The purpose of this project was to analyze data for AutosRUs’ newest prototype
 ### Lot Summary
 ![Lot Summary](Resources/lot_summary.png)
 <br>
+
+#### The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 ## T-Tests on Suspension Coils
 ### T-test for All Lots
