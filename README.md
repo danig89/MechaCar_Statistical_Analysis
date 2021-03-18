@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Purpose
-The purpose of this project was to analyze data for AutosRUs’ newest prototype, the MechaCar, and review the production data for insights that may help the manufacturing team. The objectives were to:
+The purpose of this project was to analyze data for AutosRUs’ newest prototype, the MechaCar, and review the production data for insights that may help the manufacturing team address production problems. The objectives were to:
 
 - Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
 - Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.
