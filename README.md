@@ -9,7 +9,13 @@ The purpose of this project was to analyze data for AutosRUs’ newest prototype
 - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
 
 ## Linear Regression to Predict MPG
+### Linear Regression
 ![Linear Regression](Resources/linear_regression.png)
+<br>
+
+### Summary of Linear Regression
+![Summary of Linear Regression](Resources/linear_regression_summary.png)
+<br>
 
 #### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
