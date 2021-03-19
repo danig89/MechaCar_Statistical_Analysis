@@ -24,7 +24,7 @@ The variables that provided a non-random amount of variance are vehicle length a
 The slope of the linear model is not zero, but it is close. This can be determined by examining the estimated values, none of which equal zero, and the p-value, which is less than 0.05 at 5.35e-11 (Figure 2).
 
 #### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-The linear model does predict the mpg of prototype effectively, but it can be improved. An adjusted R-squared value that is closer to 1 indicates that a large proportion of the variability in the outcome has been explained by the regression model.(1) The adjusted R-squared value is 0.6825 (Figure 2), demonstrating that the model is somewhat effective.
+The linear model does predict the mpg of prototype effectively, but it can be improved. An adjusted R-squared value that is closer to 1 indicates that a large proportion of the variability in the outcome has been explained by the regression model (Kassambara, et al., 2018). The adjusted R-squared value is 0.6825 (Figure 2), demonstrating that the model is somewhat effective.
 
 ## Summary Statistics on Suspension Coils
 ### Figure 3: Total Summary
@@ -63,4 +63,4 @@ The current manufacturing data meets the design specifications in Lot 1 and Lot 
 ## Study Design: MechaCar vs Competition
 
 ## References
-- Kassambara, Stevesmith, R-Stats, Ratnam, Visitor, Kassambara, . . . Visitor, J. (2018, March 11). Linear regression essentials in R. Retrieved March 19, 2021, from http://www.sthda.com/english/articles/40-regression-analysis/165-linear-regression-essentials-in-r/
+1. Kassambara, Stevesmith, R-Stats, Ratnam, Visitor, Kassambara, . . . Visitor, J. (2018, March 11). Linear regression essentials in R. Retrieved March 19, 2021, from http://www.sthda.com/english/articles/40-regression-analysis/165-linear-regression-essentials-in-r/
