@@ -18,10 +18,13 @@ The purpose of this project was to analyze data for AutosRUs’ newest prototype
 <br>
 
 #### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+The variables that provided a non-random amount of variance are vehicle length and ground clearance, as the p-values for these variables are less than 0.05. A p-value less than or equal to 0.05 is a strong indication of a non-random sample and provides evidence that the null hypothesis should be rejected. This would mean that there is a relationship between mpg and vehicle length, and mpg and ground clearance.
 
 #### Is the slope of the linear model considered to be zero? Why or why not?
+The slope of the linear model is not zero, but it is close. This can be determined by examining the estimated values, none of which equal zero, and the p-value, which is less than 0.05 at 5.35e-11 (Figure 2).
 
 #### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+The linear model does predict the mpg of prototype effectively, but it can be improved. An adjusted R-squared value that is closer to 1 indicates that a large proportion of the variability in the outcome has been explained by the regression model. The adjusted R-squared value is 0.6825 (Figure 2), demonstrating that the model is somewhat effective.
 
 ## Summary Statistics on Suspension Coils
 ### Figure 3: Total Summary
