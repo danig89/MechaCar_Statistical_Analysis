@@ -61,3 +61,6 @@ The current manufacturing data meets the design specifications in Lot 1 and Lot 
 <br>
 
 ## Study Design: MechaCar vs Competition
+
+## References
+- Kassambara, Stevesmith, R-Stats, Ratnam, Visitor, Kassambara, . . . Visitor, J. (2018, March 11). Linear regression essentials in R. Retrieved March 19, 2021, from http://www.sthda.com/english/articles/40-regression-analysis/165-linear-regression-essentials-in-r/
