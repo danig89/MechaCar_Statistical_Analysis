@@ -51,18 +51,22 @@ The current manufacturing data meets the design specifications in Lot 1 and Lot 
 ### Figure 5: T-test for All Lots
 ![T-test All Lots](Resources/t_test_all.png)
 <br>
+According to the results in Figure 5, the p-value 0.06028 is greater than the significance level 0.05. At 95% confidence level, the PSI across all manufacturing lots is NOT statistically different from the population mean of 1,500 pounds per square inch. The null hypothesis can be accepted.
 
 ### Figure 6: T-test for Lot 1
 ![T-test Lot 1](Resources/t_test_lot1.png)
 <br>
+Per Figure 6, the p-value of 1 is greater than the significance level 0.05. At 95% confidence level, the PSI for Lot 1 is NOT statistically different from the population mean of 1,500 pounds per square inch. The null hypothesis can be accepted.
 
 ### Figure 7: T-test for Lot 2
 ![T-test Lot 2](Resources/t_test_lot2.png)
 <br>
+Per Figure 7, the p-value of 0.6072 is greater than the significance level 0.05. At 95% confidence level, the PSI for Lot 2 is NOT statistically different from the population mean of 1,500 pounds per square inch. The null hypothesis can be accepted.
 
 ### Figure 8: T-test for Lot 3
 ![T-test Lot 3](Resources/t_test_lot3.png)
 <br>
+Per Figure 8, the p-value of 0.04168 is less than the significance level 0.05. At 95% confidence level, the PSI for Lot 3 is statistically different from the population mean of 1,500 pounds per square inch. The null hypothesis can be rejected.
 
 ## Study Design: MechaCar vs Competition
 
