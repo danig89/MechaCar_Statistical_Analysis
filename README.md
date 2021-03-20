@@ -52,19 +52,19 @@ The current manufacturing data meets the design specifications in Lot 1 and Lot 
 ![T-test All Lots](Resources/t_test_all.png)
 <br>
 <br>
-According to the results in Figure 5, the p-value 0.06028 is greater than the significance level 0.05. At 95% confidence level, the PSI across all manufacturing lots is NOT statistically different from the population mean of 1,500 pounds per square inch. The null hypothesis can be accepted.
+According to the results in Figure 5, the p-value 0.06028 is greater than the significance level 0.05. At 95% confidence level, the PSI across all manufacturing lots is NOT statistically different from the population mean of 1,500 pounds per square inch. There is failure to reject the null hypothesis.
 
 ### Figure 6: T-test for Lot 1
 ![T-test Lot 1](Resources/t_test_lot1.png)
 <br>
 <br>
-Per Figure 6, the p-value of 1 is greater than the significance level 0.05. At 95% confidence level, the PSI for Lot 1 is NOT statistically different from the population mean of 1,500 pounds per square inch. The null hypothesis can be accepted.
+Per Figure 6, the p-value of 1 is greater than the significance level 0.05. At 95% confidence level, the PSI for Lot 1 is NOT statistically different from the population mean of 1,500 pounds per square inch. There is failure to reject the null hypothesis.
 
 ### Figure 7: T-test for Lot 2
 ![T-test Lot 2](Resources/t_test_lot2.png)
 <br>
 <br>
-Per Figure 7, the p-value of 0.6072 is greater than the significance level 0.05. At 95% confidence level, the PSI for Lot 2 is NOT statistically different from the population mean of 1,500 pounds per square inch. The null hypothesis can be accepted.
+Per Figure 7, the p-value of 0.6072 is greater than the significance level 0.05. At 95% confidence level, the PSI for Lot 2 is NOT statistically different from the population mean of 1,500 pounds per square inch. There is failure to reject the null hypothesis.
 
 ### Figure 8: T-test for Lot 3
 ![T-test Lot 3](Resources/t_test_lot3.png)
@@ -73,7 +73,8 @@ Per Figure 7, the p-value of 0.6072 is greater than the significance level 0.05.
 Per Figure 8, the p-value of 0.04168 is less than the significance level 0.05. At 95% confidence level, the PSI for Lot 3 is statistically different from the population mean of 1,500 pounds per square inch. The null hypothesis can be rejected.
 
 ## Study Design: MechaCar vs Competition
-The purpose of this statistical study is to compare average fuel efficiency of the MechaCar vehicles against that of vehicles from another manufacturer. The average fuel efficiency of MechaCar vehicles and its competitor's cars will be needed to perform the statistical analysis. The null hypothesis would state that there is no significant difference of average fuel efficiency between MechaCar vehicles and its competitor. The alternative hypothesis would state that there is a significant difference of average fuel efficiency between MechaCar vehicles and its competitor. To test the hypothesis, a two-sample t-test would be performed to determine if two population means are equal or not.
+The purpose of this statistical study is to compare average fuel efficiency of the MechaCar vehicles against that of vehicles from another manufacturer. The average fuel efficiency of MechaCar vehicles and its competitor's cars will be needed to perform the statistical analysis. The null hypothesis would state that there is no significant difference of average fuel efficiency between MechaCar vehicles and its competitor. The alternative hypothesis would state that there is a significant difference of average fuel efficiency between MechaCar vehicles and its competitor. To test the hypothesis, a two-sample t-test would be performed to determine if the two population means are equal or not. To perform this test, summary statistics would be performed to get the mean and standard deviation. The p-value obtained from the t-test would help to determine if the average fuel efficiency of the companies are significantly different- p < 0.05 is statistically significant and indicates strong evidence against the null hypothesis; p > 0.05 is not statistically significant and indicates strong evidence for the null hypothesis (Mcleod, 2019).
 
 ## References
 1. Kassambara, Stevesmith, R-Stats, Ratnam, Visitor, Kassambara, . . . Visitor, J. (2018, March 11). Linear regression essentials in R. Retrieved March 19, 2021, from http://www.sthda.com/english/articles/40-regression-analysis/165-linear-regression-essentials-in-r/
+2. Mcleod, S. (2019). Value and statistical significance: Simply psychology20. Retrieved March 19, 2021, from https://www.simplypsychology.org/p-value.html
