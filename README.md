@@ -73,6 +73,7 @@ Per Figure 7, the p-value of 0.6072 is greater than the significance level 0.05.
 Per Figure 8, the p-value of 0.04168 is less than the significance level 0.05. At 95% confidence level, the PSI for Lot 3 is statistically different from the population mean of 1,500 pounds per square inch. The null hypothesis can be rejected.
 
 ## Study Design: MechaCar vs Competition
+The purpose of this statistical study is to compare average fuel efficiency of the MechaCar vehicles against that of vehicles from another manufacturer. The average fuel efficiency of MechaCar vehicles and its competitor's cars will be needed to perform the statistical analysis. The null hypothesis would state that there is no significant difference of average fuel efficiency between MechaCar vehicles and its competitor. The alternative hypothesis would state that there is a significant difference of average fuel efficiency between MechaCar vehicles and its competitor. To test the hypothesis, a two-sample t-test would be performed to determine if two population means are equal or not.
 
 ## References
 1. Kassambara, Stevesmith, R-Stats, Ratnam, Visitor, Kassambara, . . . Visitor, J. (2018, March 11). Linear regression essentials in R. Retrieved March 19, 2021, from http://www.sthda.com/english/articles/40-regression-analysis/165-linear-regression-essentials-in-r/
